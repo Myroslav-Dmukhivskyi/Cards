@@ -39,7 +39,7 @@ body {
   opacity: 0;
 }
 .item.active {
-  flex: 5;
+  flex: 2;
 }
 .item.active h2 {
   opacity: 1;
